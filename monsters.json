@@ -1,0 +1,99 @@
+[
+	{
+	  "nimi": "Demonitoukka",
+	  "kuvaus": "Sinulla täytyy olla koukku. Yritä heittää pariton numero, saat yrittää kerran. Jos epäonnistut, heitä uudelleen ja siirry pois."
+	},
+	{
+	  "nimi": "Hullu ampiainen",
+	  "kuvaus": "Et tarvitse varustekortteja. Heitä 8 heitolla 1. Jos epäonnistut, menetät köyden. Jos sinulla ei ole köyttä, joudut kakkukammioon."
+	},
+	{
+	  "nimi": "Kuollut kani",
+	  "kuvaus": "Sinulla pitää olla köysi ja kilpi. Et saa ylittää 30:ta viidellä heitolla. Jos epäonnistut, joudut kakkukammioon."
+	},
+	{
+	  "nimi": "Nälkäinen tupajumi",
+	  "kuvaus": "Sinulla pitää olla ruokapussi ja vähintään 2 muuta varustekorttia. Heitä kuudella heitolla 2 paritonta numeroa voittaaksesi. Jos epäonnistut, menetät ruokapussin ja joudut kakkukammioon."
+	},
+	{
+	  "nimi": "Surkea saunatonttu",
+	  "kuvaus": "Sinulla pitää olla verkko. Anna verkkosi saunatontulle TAI heitä kaksi samaa numeroa viidellä heitolla. Jos epäonnistut, menetät verkkosi."
+	},
+	{
+	  "nimi": "Herkullinen haltija",
+	  "kuvaus": "Heitä noppaa kahdesti. Ensimmäisen askeleen pitää olla suurempi kuin toinen."
+	},
+	{
+	  "nimi": "Papupenkin prinssi",
+	  "kuvaus": "Heitä noppaa kolme kertaa ja laske heittojen yhteissumma. Toinen pelaaja heittää kolmasti prinssin puolesta. Joudut kakkukammioon, jos prinssin summa on suurempi kuin sinun."
+	},
+	{
+	  "nimi": "Goblinin kauan sitten kadonnut kaksoisveli Boblin",
+	  "kuvaus": "Sinulla pitää olla miekka. Valitse numero 1-8 välillä ja yritä saada se kuudella heitolla. Jos epäonnistut, Boblin vangitsee sinut ja joudut kakkukammioon."
+	},
+	{
+	  "nimi": "Piereskelevä Pauli",
+	  "kuvaus": "Sinulla pitää olla verkko. Yritä heittää 1 kuudella heitolla. Jos epäonnistut, Pauli ottaa verkkosi ja, koska olet ollut niin ikävä häntä kohtaan, yhden toisenkin varustekortin. Jos sinulla ei ole toista varustekorttia, joudut kakkukammioon."
+	},
+	{
+	  "nimi": "Metsäpuiston männyssä asusteleva mörkö",
+	  "kuvaus": "Sinulla pitää olla koukku. Yritä kolmella heitolla heittää enemmän tai vähemmän kuin 13. Kerro valintasi ennen heittoa. Epäonnistuessasi joudut kakkukammioon."
+	},
+	{
+	  "nimi": "Kaivossa asusteleva uhkapeliaddikti",
+	  "kuvaus": "Sinulla pitää olla ruokapussi. Valitse numero 1-8 väliltä. Yritä saada ilmoittamasi numero 3 heitolla. Epäonnistuessasi menetät ruokapussisi."
+	},
+	{
+	  "nimi": "Herkkä henki",
+	  "kuvaus": "Sinulla pitää olla köysi ja kilpi. Heitä noppaa. Jos heitit 5-6, voitat hengen. Jos heitit 3-4, voitit hengen, mutta menetit kilpesi. Heitoilla 1-2 joudut tyrmään. Heitoilla 7-8 ei tapahdu mitään."
+	},
+	{
+	  "nimi": "Harvinainen H. Hikinaama",
+	  "kuvaus": "Sinulla pitää olla kilpi. Sulje silmäsi ja heitä noppaa. Sinulla on 2 yritystä arvata heittämäsi tulos. Epäonnistuessasi saat pitää kilpesi."
+	},
+	{
+	  "nimi": "Termiittikuningas",
+	  "kuvaus": "Tämä hirviö on niin hirviömäinen, että sinulle annetaan mahdollisuus luovuttaa, heittää noppaa ja siirtyä pois. Jos päätät jatkaa, tarvitset vähintään 4 varustekorttia. Valitse korttisi ja heitä noppaa kerran korttia kohti. Heitoilla 4-8 kortti säilyy, muussa tapauksessa menetät sen. Jos 4 kortistasi 3 säilyy, hirviö kukistuu."
+	},
+	{
+	  "nimi": "Turtana",
+	  "kuvaus": "TURTANAA EI VOI VOITTA. MENE TYRMELÖ"
+	},
+	{
+	  "nimi": "Suolisto",
+	  "kuvaus": "Sinulla pitää olla kilpi. Heitä noppaa kahdesti. Toisen heiton pitää olla suurempi kuin ensimmäinen."
+	},
+	{
+	  "nimi": "Murhanhimoinen makutuomari",
+	  "kuvaus": "Sinulla pitää olla miekka ja verkko. Valitse yhteistulos, jonka yrität saada kolmella heitolla. Kolmen virhearvio hyväksytään. Epäonnistuessasi joudut tyrmään."
+	},
+	{
+	  "nimi": "Vihainen vallesmanni",
+	  "kuvaus": "Sinulla pitää olla miekka ja ruokapussi. Muut pelaajat heittävät kerran noppaa. Silmäluvut lasketaan yhteen. Sinun pitää saada sama tai parempi tulos yhtä monella heitolla. Menetät epäonnistuessa kilpesi."
+	},
+	{
+	  "nimi": "Aivasteleva akka",
+	  "kuvaus": "Yritä heittää 2 paritonta numeroa neljällä heitolla. Epäonnistuessasi menetät yhden varusteesi."
+	},
+	{
+	  "nimi": "Kukkuva jättiläinen",
+	  "kuvaus": "Kukkuva jättiläinen näkee kaiken. Jos olet huijannut aikaisemmin pelissä, mene kakkukammioon. Muussa tapauksessa heitä noppaa kahdesti. Sinun pitää saada toisella heitolla suurempi tulos kuin ensimmäisellä. Saat yrittää kahdesti. Jos epäonnistut joudut kakkukammioon. Voit siellä ihastella kukkuvan jättiläisen nappaamia ihmisiä. Kiitos hei"
+	},
+	{
+	  "nimi": "Kasvissyöjäkasvi",
+	  "kuvaus": "Sinulla pitää olla koukku. Yritä heittää viidellä heitolla 24 tai enemmän. Jos epäonnistut, menetät koukkusi."
+	},
+	{
+	  "nimi": "Viisas tietäilijä",
+	  "kuvaus": "Ratkaise koodi: OEOOETCPPC. Jos et halua, heitä 1 yhdellä yrityksellä."
+	},
+	{
+	  "nimi": "Lentävän ihmissuden serkku Kävelevä ihmissusi",
+	  "kuvaus": "Sinulla pitää olla köysi. Ellei sinulla ole köyttä, menetät yhden varustekorttisi. Sulje silmäsi ja heitä noppaa. Jos se osuu toiseen pelaajaan, joudut kakkukammioon. Sinulla on neljä yritystä aikaa arvata heittämäsi numero. Jos epäonnistut, menetät köytesi."
+	},
+	{
+	  "nimi": "Maistelupeto",
+	  "kuvaus": "Maistelupeto nukkuu täyttävän aterian jälkeen."
+	},
+]
+
