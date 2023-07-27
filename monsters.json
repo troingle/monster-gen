@@ -1,99 +1,142 @@
 [
 	{
-	  "nimi": "Demonitoukka",
-	  "kuvaus": "Sinulla täytyy olla koukku. Yritä heittää pariton numero, saat yrittää kerran. Jos epäonnistut, heitä uudelleen ja siirry pois."
+		"nimi": "Demonitoukka",
+		"kuvaus": "Sinulla täytyy olla sakset. Yritä heittää pariton numero, saat yrittää kerran. Jos epäonnistut, heitä uudelleen ja siirry pois.",
+		"monologi": "Tervetuloa, rohkea seikkailija! Olen Demonitoukka, ja sinun on aika näyttää taitosi! Sakset ovat aseesi tänään. Yritä heittää pariton numero, ja jos onni ei ole puolellasi, saat yrittää uudelleen. Epäonnistuessasi joudut perääntymään, mutta varoita en sinua – tiesi jatkuu yhä haastavampiin koitoksiin!"
 	},
 	{
-	  "nimi": "Hullu ampiainen",
-	  "kuvaus": "Et tarvitse varustekortteja. Heitä 8 heitolla 1. Jos epäonnistut, menetät köyden. Jos sinulla ei ole köyttä, joudut kakkukammioon."
+		"nimi": "Hullu ampiainen",
+		"kuvaus": "Heitä 6 heitolla 8. Jos epäonnistut, menetät rautalangan. Jos sinulla ei ole rautalankaa, joudut kakkukammioon.",
+		"monologi": "Hurjaa hurjempi Hullu ampiainen saapuu! Kuulehan, uhkarohkea peluri! Nyt heität kahdeksan silmälukua kuudella nopanheitolla. Jos et onnistu, menetät rautalankasi, ja vaikka sinulla ei sellaista olisikaan, joudut kammioon! Uskallatko ottaa riskin? Oho, taidat olla aika rohkea – katsotaan, miten selviät!"
 	},
 	{
-	  "nimi": "Kuollut kani",
-	  "kuvaus": "Sinulla pitää olla köysi ja kilpi. Et saa ylittää 30:ta viidellä heitolla. Jos epäonnistut, joudut kakkukammioon."
+		"nimi": "Kuollut kani",
+		"kuvaus": "Sinulla pitää olla rautalanka. Et saa ylittää 30:ta viidellä heitolla. Jos epäonnistut, joudut kakkukammioon.",
+		"monologi": "Kuolemantanssia tanssimaan saapuu Kuollut kani! Tarkkaile nyt rautalankaasi, sillä sinun on heitettävä viisi kertaa noppaa ja ylitettävä kolmekymmentä. Jos et siihen kykene, joudut kammioon – niin kuin moni muu ennen sinua! Valmistaudu, seikkailija, haaste on heitetty!"
 	},
 	{
-	  "nimi": "Nälkäinen tupajumi",
-	  "kuvaus": "Sinulla pitää olla ruokapussi ja vähintään 2 muuta varustekorttia. Heitä kuudella heitolla 2 paritonta numeroa voittaaksesi. Jos epäonnistut, menetät ruokapussin ja joudut kakkukammioon."
+		"nimi": "Nälkäinen tupajumi",
+		"kuvaus": "Sinulla pitää olla herkkupussi. Heitä kuudella heitolla 2 paritonta numeroa voittaaksesi. Jos epäonnistut, menetät ruokapussin ja joudut kakkukammioon.",
+		"monologi": "Tervetuloa, ruokaturisti! Olen Nälkäinen tupajumi, ja nyt saat kokeilla onneasi herkkupussin kanssa. Heitä noppaa kuusi kertaa ja tavoittele kahta paritonta numeroa. Jos et saa niitä aikaiseksi, menetät ruokapussisi ja päädyt kammioon, missä varmasti pohdit tekojasi!"
 	},
 	{
-	  "nimi": "Surkea saunatonttu",
-	  "kuvaus": "Sinulla pitää olla verkko. Anna verkkosi saunatontulle TAI heitä kaksi samaa numeroa viidellä heitolla. Jos epäonnistut, menetät verkkosi."
+		"nimi": "Surkea saunatonttu",
+		"kuvaus": "Sinulla pitää olla kalaverkko. Anna verkkosi saunatontulle TAI heitä kaksi samaa numeroa viidellä heitolla. Jos epäonnistut, menetät kalaverkkosi.",
+		"monologi": "Tervetuloa, kalaverkon omistaja! Olen Surkea saunatonttu, ja nyt on aikasi loistaa. Joko annat minulle kalaverkkosi tai yrität heittää kaksi samaa silmälukua viidellä heitolla. Kumpi onnistuu, sen päätämme kohta. Jos et pärjää, menetät kalaverkkosi – kyllä, kyllä!"
 	},
 	{
-	  "nimi": "Herkullinen haltija",
-	  "kuvaus": "Heitä noppaa kahdesti. Ensimmäisen askeleen pitää olla suurempi kuin toinen."
+		"nimi": "Herkullinen haltija",
+		"kuvaus": "Heitä noppaa kahdesti. Ensimmäisen askeleen pitää olla suurempi kuin toinen.",
+		"monologi": "Astupa eteenpäin, seikkailija! Olen Herkullinen haltija, ja haastan sinut testaamaan nopanheitto-taitosi. Ensimmäisen askeleen pitää olla suurempi kuin toisen, muuten joudut taipumaan voimani edessä. Mitä, mitenkö sen saavutan? Katso ja opi!"
 	},
 	{
-	  "nimi": "Papupenkin prinssi",
-	  "kuvaus": "Heitä noppaa kolme kertaa ja laske heittojen yhteissumma. Toinen pelaaja heittää kolmasti prinssin puolesta. Joudut kakkukammioon, jos prinssin summa on suurempi kuin sinun."
+		"nimi": "Papupenkin prinssi",
+		"kuvaus": "Heitä noppaa kolme kertaa ja laske heittojen yhteissumma. Toinen pelaaja heittää kolmasti prinssin puolesta. Joudut kakkukammioon, jos prinssin summa on suurempi kuin sinun.",
+		"monologi": "Tervehdys, onnekas matkamies! Minä olen Papupenkin prinssi, ja tässä pelissä kohtalosi on liitoutunut minun kanssani. Heitä noppaa kolme kertaa ja laske yhteissummasi. Toinen pelaaja heittää kolmasti puolestani. Toivottavasti yhteissummani on suurempi kuin sinun – muuten kakkukammio odottaa!"
 	},
 	{
-	  "nimi": "Goblinin kauan sitten kadonnut kaksoisveli Boblin",
-	  "kuvaus": "Sinulla pitää olla miekka. Valitse numero 1-8 välillä ja yritä saada se kuudella heitolla. Jos epäonnistut, Boblin vangitsee sinut ja joudut kakkukammioon."
+		"nimi": "Goblinin kauan sitten kadonnut kaksoisveli Boblin",
+		"kuvaus": "Sinulla pitää olla harava. Valitse numero 1-8 välillä ja yritä saada se kuudella heitolla. Jos epäonnistut, Boblin vangitsee sinut ja joudut kakkukammioon.",
+		"monologi": "Kuule, seikkailija! Olen Goblinin kadonnut kaksoisveli Boblin, ja sinun on aika kohdata kohtalosi. Valitse numero 1-8 välillä ja heitä noppaa kuusi kertaa. Tavoitteenasi on osua valitsemaasi numeroon. Jos et siihen pysty, vangitsen sinut ja lennät kammioon – sinä olet jo liian utelias!"
 	},
 	{
-	  "nimi": "Piereskelevä Pauli",
-	  "kuvaus": "Sinulla pitää olla verkko. Yritä heittää 1 kuudella heitolla. Jos epäonnistut, Pauli ottaa verkkosi ja, koska olet ollut niin ikävä häntä kohtaan, yhden toisenkin varustekortin. Jos sinulla ei ole toista varustekorttia, joudut kakkukammioon."
+		"nimi": "Puhiseva Pauli",
+		"kuvaus": "Sinulla pitää olla kalaverkko. Yritä heittää 1 kuudella heitolla. Jos epäonnistut, Pauli ottaa verkkosi ja, koska olet ollut niin ikävä häntä kohtaan, yhden toisenkin varustekortin. Jos sinulla ei ole toista varustekorttia, joudut kakkukammioon.",
+		"monologi": "Tervetuloa, verkon omistaja! Minä olen Puhiseva Pauli, ja nyt nähdään, oletko valmis ottamaan haasteen vastaan. Yritä heittää 1 kuudella nopanheitolla – jos epäonnistut, Pauli ottaa verkkosi! Ja kuten vanha sanonta kuuluu: osoitettuasi epäkunnioitusta, menetät myös toisen varusteesi. Varoituksen sana!"
 	},
 	{
-	  "nimi": "Metsäpuiston männyssä asusteleva mörkö",
-	  "kuvaus": "Sinulla pitää olla koukku. Yritä kolmella heitolla heittää enemmän tai vähemmän kuin 13. Kerro valintasi ennen heittoa. Epäonnistuessasi joudut kakkukammioon."
+		"nimi": "Metsäpuiston männyssä asusteleva mörkö",
+		"kuvaus": "Yritä kolmella heitolla heittää enemmän tai vähemmän kuin 13. Kerro valintasi ennen heittoa. Epäonnistuessasi joudut kakkukammioon.",
+		"monologi": "Tervetuloa, arka seikkailija! Olen Metsäpuiston männyssä asusteleva mörkö, ja nyt nähdään, osaatko tarkasti heittää. Kerro valintasi ennen heittoa: enemmän vai vähemmän kuin 13. Heitä noppaa kolme kertaa, ja jännitys kasvaa. Epäonnistuessasi saat kutsun kammioon – ja kauhukakku on maittavaa!"
 	},
 	{
-	  "nimi": "Kaivossa asusteleva uhkapeliaddikti",
-	  "kuvaus": "Sinulla pitää olla ruokapussi. Valitse numero 1-8 väliltä. Yritä saada ilmoittamasi numero 3 heitolla. Epäonnistuessasi menetät ruokapussisi."
+		"nimi": "Kaivossa asusteleva uhkapeliaddikti",
+		"kuvaus": "Sinulla pitää olla herkkupussi. Valitse numero 1-8 väliltä. Yritä saada ilmoittamasi numero 3 heitolla. Epäonnistuessasi menetät ruokapussisi.",
+		"monologi": "Tervetuloa, onnenetsijä! Minä olen Kaivossa asusteleva uhkapeliaddikti, ja tässä pelissä sinun tulee osoittaa taitosi herkkupussin kanssa. Valitse numero 1-8 ja yritä saada ilmoittamasi numero kolmella heitolla. Jos onni ei suosi sinua, menetät ruokapussisi, ja voin vakuuttaa, että kammioon päätyminen ei ole herkkua! Uskallatko ottaa riskin?"
 	},
 	{
-	  "nimi": "Herkkä henki",
-	  "kuvaus": "Sinulla pitää olla köysi ja kilpi. Heitä noppaa. Jos heitit 5-6, voitat hengen. Jos heitit 3-4, voitit hengen, mutta menetit kilpesi. Heitoilla 1-2 joudut tyrmään. Heitoilla 7-8 ei tapahdu mitään."
+		"nimi": "Herkkä henki",
+		"kuvaus": "Sinulla pitää olla rautalanka. Heitä noppaa. Jos heitit 5-6, voitat hengen. Jos heitit 3-4, voitit hengen, mutta menetit rautalangan. Heitoilla 1-2 joudut tyrmään. Heitoilla 7-8 ei tapahdu mitään.",
+		"monologi": "Tervetuloa, rohkea sielu! Olen Herkkä henki, ja ainoastaan sinulla on mahdollisuus vapautua kohtalostasi. Heitä noppaa, ja toivota 5-6, niin voitat hengen. Saat olla tyytyväinen myös heittoihin 3-4, sillä saat henkeni, mutta menetät rautalankasi. Jos heität 1-2, joudut tyrmään, ja jos heität 7-8, silloin mitään erikoista ei tapahdu. Katsotaan, onko onni sinun puolellasi!"
 	},
 	{
-	  "nimi": "Harvinainen H. Hikinaama",
-	  "kuvaus": "Sinulla pitää olla kilpi. Sulje silmäsi ja heitä noppaa. Sinulla on 2 yritystä arvata heittämäsi tulos. Epäonnistuessasi saat pitää kilpesi."
+		"nimi": "Harvinainen H. Hikinaama",
+		"kuvaus": "Sulje silmäsi ja heitä noppaa. Sinulla on 2 yritystä arvata heittämäsi tulos.",
+		"monologi": "Salaisuuksien verho laskeutuu, sillä nyt saapuu Harvinainen H. Hikinaama! Sulje silmäsi ja heitä noppaa. Kohtalosi on minun käsissäni, sillä sinulla on kaksi yritystä arvata heittämäsi tulos. Onko sinussa ripaus arvailijan taitoa vai johdatko vain sattuman oikuilla? Jännitys on käsin kosketeltavaa!"
 	},
 	{
-	  "nimi": "Termiittikuningas",
-	  "kuvaus": "Tämä hirviö on niin hirviömäinen, että sinulle annetaan mahdollisuus luovuttaa, heittää noppaa ja siirtyä pois. Jos päätät jatkaa, tarvitset vähintään 4 varustekorttia. Valitse korttisi ja heitä noppaa kerran korttia kohti. Heitoilla 4-8 kortti säilyy, muussa tapauksessa menetät sen. Jos 4 kortistasi 3 säilyy, hirviö kukistuu."
+		"nimi": "Termiittikuningas",
+		"kuvaus": "Tämä hirviö on niin hirviömäinen, että sinulle annetaan mahdollisuus luovuttaa, heittää noppaa ja siirtyä pois. Jos päätät jatkaa, tarvitset vähintään 4 varustekorttia. Valitse korttisi ja heitä noppaa kerran korttia kohti. Heitoilla 4-8 kortti säilyy, muussa tapauksessa menetät sen. Jos 4 kortistasi 3 säilyy, hirviö kukistuu.",
+		"monologi": "Astupa lähemmäksi, rohkea taistelija! Minä olen Termiittikuningas, ja sanotaan, että olen hirviömäisin hirviöistä. Sinulle annetaan mahdollisuus luovuttaa, mutta jos päätät jatkaa, tarvitset vähintään neljä varustekorttia. Valitse korttisi ja heitä noppaa kerran jokaista korttia kohti. Jos heittojesi summa on 4-8, kortti säilyy – muussa tapauksessa menetät sen. Jos onnistut säilyttämään kolme korttiasi, hirviö kukistuu. Oletko valmis ottamaan haasteen vastaan?"
 	},
 	{
-	  "nimi": "Turtana",
-	  "kuvaus": "TURTANAA EI VOI VOITTA. MENE TYRMELÖ"
+		"nimi": "Turtana",
+		"kuvaus": "TURTANAA EI VOI VOITTA. MENE KAKEKAMMELO",
+		"monologi": "Turtana tervehtii sinua! Älä vaivaudu edes yrittämään, sillä TURTANAA EI VOI VOITTAA. Mene KAKEKAMMELO-nimiseen paikkaan, jos tahdot jatkaa matkaasi. Hyvää päivänjatkoa!"
 	},
 	{
-	  "nimi": "Suolisto",
-	  "kuvaus": "Sinulla pitää olla kilpi. Heitä noppaa kahdesti. Toisen heiton pitää olla suurempi kuin ensimmäinen."
+		"nimi": "Suolisto",
+		"kuvaus": "Sinulla pitää olla peili. Heitä noppaa kahdesti. Toisen heiton pitää olla suurempi kuin ensimmäinen.",
+		"monologi": "Tervetuloa, seikkailija! Olen Suolisto, ja nyt saat testata tarkkuutesi peilin kanssa. Heitä noppaa kahdesti, mutta toisen heiton tulee olla suurempi kuin ensimmäisen. Katso tarkasti ja yritä olla vapisematta, sillä kohtalosi riippuu tarkkuudestasi. Onnistutko näyttämään, että sinulla on rohkeutta syvälle suolistoon asti?"
 	},
 	{
-	  "nimi": "Murhanhimoinen makutuomari",
-	  "kuvaus": "Sinulla pitää olla miekka ja verkko. Valitse yhteistulos, jonka yrität saada kolmella heitolla. Kolmen virhearvio hyväksytään. Epäonnistuessasi joudut tyrmään."
+		"nimi": "Murhanhimoinen makutuomari",
+		"kuvaus": "Sinulla pitää olla kalaverkko. Valitse yhteistulos, jonka yrität saada kolmella heitolla. Kolmen virhearvio hyväksytään. Epäonnistuessasi joudut tyrmään.",
+		"monologi": "Murhanhimoinen makutuomari ilmoittautuu! Sinulla on mahdollisuus valita yhteistulos, jonka haluat saavuttaa kolmella nopanheitolla. Mutta ole varovainen, sallin kolme virhearviota. Onnistutko näyttämään taitosi kalaverkon kanssa, vai menetkö kammioon miettimään valintojasi? Valmistaudu, sillä makutuomari ei tunne armoa!"
 	},
 	{
-	  "nimi": "Vihainen vallesmanni",
-	  "kuvaus": "Sinulla pitää olla miekka ja ruokapussi. Muut pelaajat heittävät kerran noppaa. Silmäluvut lasketaan yhteen. Sinun pitää saada sama tai parempi tulos yhtä monella heitolla. Menetät epäonnistuessa kilpesi."
+		"nimi": "Vihainen vallesmanni",
+		"kuvaus": "Sinulla pitää olla harava. Muut pelaajat heittävät kerran noppaa. Silmäluvut lasketaan yhteen. Sinun pitää saada sama tai parempi tulos yhtä monella heitolla. Menetät epäonnistuessa kilpesi.",
+		"monologi": "Tervetuloa, rohkea seikkailija! Minä olen Vihainen vallesmanni, ja nyt sinun on aika näyttää taitosi haravan kanssa. Muut pelaajat heittävät noppaa kerran, ja silmälukujen summa lasketaan yhteen. Sinun tehtäväsi on saada sama tai parempi tulos yhtä monella heitolla. Jos onni ei suosi, menetät kilpesi – mutta se ei ole vielä kaikkea, mitä menetät. Valmiina taisteluun?"
 	},
 	{
-	  "nimi": "Aivasteleva akka",
-	  "kuvaus": "Yritä heittää 2 paritonta numeroa neljällä heitolla. Epäonnistuessasi menetät yhden varusteesi."
+		"nimi": "Aivasteleva akka",
+		"kuvaus": "Yritä heittää 2 paritonta numeroa neljällä heitolla. Epäonnistuessasi menetät yhden varusteesi.",
+		"monologi": "Tervetuloa, seikkailija! Olen Aivasteleva akka, ja nyt sinun on aika näyttää taitosi nopanheitossa. Yritä heittää neljällä nopanheitolla kaksi paritonta silmälukua. Älä pidättele aivastustasi, sillä kohtalosi riippuu tarkkuudestasi. Epäonnistuessasi menetät yhden varusteesi, ja se ei ole lainkaan hauskaa! Onnea matkaan!"
 	},
 	{
-	  "nimi": "Kukkuva jättiläinen",
-	  "kuvaus": "Kukkuva jättiläinen näkee kaiken. Jos olet huijannut aikaisemmin pelissä, mene kakkukammioon. Muussa tapauksessa heitä noppaa kahdesti. Sinun pitää saada toisella heitolla suurempi tulos kuin ensimmäisellä. Saat yrittää kahdesti. Jos epäonnistut joudut kakkukammioon. Voit siellä ihastella kukkuvan jättiläisen nappaamia ihmisiä. Kiitos hei"
+		"nimi": "Kukkuva jättiläinen",
+		"kuvaus": "Kukkuva jättiläinen näkee kaiken. Jos olet huijannut aikaisemmin pelissä, mene kakkukammioon. Muussa tapauksessa heitä noppaa kahdesti. Sinun pitää saada toisella heitolla suurempi tulos kuin ensimmäisellä. Saat yrittää kahdesti. Jos epäonnistut joudut kakkukammioon. Voit siellä ihastella kukkuvan jättiläisen nappaamia ihmisiä. Kiitos hei",
+		"monologi": "Tervetuloa, kurttuotsainen kulkija! Olen Kukkuva jättiläinen, ja minä näen kaiken. Jos olet huijannut aikaisemmin pelissä, tiedät jo kohtalosi – kammio odottaa! Mutta jos et ole huijari, heitä noppaa kahdesti ja tavoittele suurempaa silmälukua toisella heitolla. Sinulla on kaksi yritystä. Jos epäonnistut, niin kukku kukku kammioon! Tervemenoa!"
 	},
 	{
-	  "nimi": "Kasvissyöjäkasvi",
-	  "kuvaus": "Sinulla pitää olla koukku. Yritä heittää viidellä heitolla 24 tai enemmän. Jos epäonnistut, menetät koukkusi."
+		"nimi": "Kasvissyöjäkasvi",
+		"kuvaus": "Sinulla pitää olla sakset. Yritä heittää viidellä heitolla 24 tai enemmän. Jos epäonnistut, menetät koukkusi.",
+		"monologi": "Tervetuloa, lihansyöjästä varovainen siirtyjä! Minä olen Kasvissyöjäkasvi, ja nyt sinun on aika testata taitosi sakset kädessä. Yritä heittää noppaa viisi kertaa, ja tavoittele 24 tai enemmän. Jos et onnistu, menetät koukkusi, mutta jos onni on puolellasi, saat jatkaa matkaasi. Älä leiki kasvissyöjän kanssa – tarkoitan sitä kirjaimellisesti!"
 	},
 	{
-	  "nimi": "Viisas tietäilijä",
-	  "kuvaus": "Ratkaise koodi: OEOOETCPPC. Jos et halua, heitä 1 yhdellä yrityksellä."
+		"nimi": "Viisas tietäilijä",
+		"kuvaus": "Ratkaise koodi: OEOOETCPPC. Jos et halua, heitä 1 tai 2 yhdellä yrityksellä.",
+		"monologi": "Tervetuloa, utelias tiedonetsijä! Olen Viisas tietäilijä, ja nyt saat koittaa ratkaista koodin. OEOOETCPPC on arvoitukseni sinulle. Jos et halua haastaa itseäsi, voit heittää noppaa kerran tai kaksi ja toivoa saavasi yhden tai kahden. Ratkaise koodi, niin saat jatkaa matkaasi viisaampana. Onnea matkaan!"
 	},
 	{
-	  "nimi": "Lentävän ihmissuden serkku Kävelevä ihmissusi",
-	  "kuvaus": "Sinulla pitää olla köysi. Ellei sinulla ole köyttä, menetät yhden varustekorttisi. Sulje silmäsi ja heitä noppaa. Jos se osuu toiseen pelaajaan, joudut kakkukammioon. Sinulla on neljä yritystä aikaa arvata heittämäsi numero. Jos epäonnistut, menetät köytesi."
+		"nimi": "Lentävän ihmissuden serkku Kävelevä ihmissusi",
+		"kuvaus": "Sinulla pitää olla rautalanka. Ellei sinulla ole sitä, menetät yhden varustekorttisi. Sulje silmäsi ja heitä noppaa. Jos se osuu toiseen pelaajaan, joudut kakkukammioon. Sinulla on neljä yritystä aikaa arvata heittämäsi numero. Jos epäonnistut, menetät rautalankasi.",
+		"monologi": "Tervetuloa, rohkea matkamies! Olen Lentävän ihmissuden serkku Kävelevä ihmissusi, ja nyt sinulla on tilaisuus näyttää taitosi rautalangan kanssa. Mutta ennen kuin aloitamme, sinun on selvitettävä, onko rautalankasi matkassasi. Ellei sinulla sitä ole, menetät yhden varustekorttisi. Sulje silmäsi ja heitä noppaa. Jos se osuu toiseen pelaajaan, valmistaudu kammioon! Sinulla on neljä yritystä arvata heittämäsi numero. Onko sinulla taitoa ja tarkkuutta?"
 	},
 	{
-	  "nimi": "Maistelupeto",
-	  "kuvaus": "Maistelupeto nukkuu täyttävän aterian jälkeen. Heitä noppaa. Tuloksilla 2-7 peto jatkaa uniaan. Tuloksilla 1 ja 8 se herää ja joudut kakkukammioon."
+		"nimi": "Maistelupeto",
+		"kuvaus": "Maistelupeto nukkuu täyttävän aterian jälkeen. Heitä noppaa. Tuloksilla 2-7 peto jatkaa uniaan. Tuloksilla 1 ja 8 se herää ja joudut kakkukammioon.",
+		"monologi": "Tervetuloa, ruokasankari! Olen Maistelupeto, ja nyt saat kokeilla onneasi uneliaan pedon kanssa. Heitä noppaa ja katso, mihin tulos osuu. Jos noppa näyttää 2-7, peto jatkaa uniaan – toivottavasti ateriasi ei houkuttele sitä! Mutta jos noppa näyttää 1 tai 8, peto herää ja joudut kammioon. Valmistaudu, seikkailija!"
 	},
+	{
+		"nimi": "Hampaaton hupaisa hurtta",
+		"kuvaus": "Hupaisa hurtta etsii hammastaan. Päätä, haluatko heittää parillisen vai parittoman. Yritä heittää päättämälläsi tavalla. Epäonnistuessasi joudut kakkukammioon.",
+		"monologi": "Tervetuloa, hampaaton hurjastelija! Minä olen Hampaaton hupaisa hurtta, ja nyt saat leikkiä kanssani. Päätä, haluatko heittää parillisen vai parittoman, ja yritä sitten heittää noppaa päättämäsi tavalla. Epäonnistuessasi joudut kammioon, missä varmasti huomaat, kuinka arvokkaat hampaat oikeastaan ovat!"
+	},
+	{
+		"nimi": "Tuhiseva tonttu",
+		"kuvaus": "Tonttu on vihainen, koska hänen tyynynsä on viety. Yritä heittää kuudella heitolla 3 paritonta numeroa.",
+		"monologi": "Tervetuloa, yöunistaan herätetty matkamies! Olen Tuhiseva tonttu, ja olen vihainen, koska joku varasti tyynyni! Nyt saat korjata tilanteen heittämällä kuudella nopanheitolla 3 paritonta silmälukua. Jos onnistut, saat jatkaa matkaasi, mutta jos et, niin olisit toivonut, että olisit voinut nukkua teltassasi rauhassa! Heitä nopat ja nähdään, kuinka käy!"
+	},
+	{
+		"nimi": "Pöhköpossu",
+		"kuvaus": "Sinulla pitää olla harava. Valitse luku 1-3 väliltä. Yritä saada valitsemasi luku 5 heitolla. Jos epäonnistut, menetät haravasi ja joudut kakkukammioon.",
+		"monologi": "Tervetuloa, possujen ystävä! Minä olen Pöhköpossu, ja nyt saat kokeilla onneasi haravan kanssa. Valitse luku 1-3 väliltä ja yritä saada se viidellä nopanheitolla. Jos onni ei suosi sinua, menetät haravasi ja joudut kammioon, missä saattaa olla paljonkin siivottavaa! Valmistaudu, sillä haaste on asetettu!"
+	},
+	{
+		"nimi": "Liukas liero",
+		"kuvaus": "Sinulla pitää olla kalaverkko. Heitä noppaa kahdesti ja laske tulokset yhteen. Sinun pitää saada 9 tai enemmän yhteensä. Jos et saa vaadittua tulosta, menetät kalaverkkosi.",
+		"monologi": "Tervetuloa, lipevä liukujalka! Olen Liukas liero, ja nyt sinun on aika näyttää taitosi kalaverkon kanssa. Heitä noppaa kahdesti ja laske tulokset yhteen. Sinun on saatava vähintään 9 yhteensä. Jos onni ei ole myötä, menetät kalaverkkosi – ja minä voin luvata, että kammio on sinua varten varsin liukas paikka!"
+	}
 ]
-
