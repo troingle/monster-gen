@@ -138,5 +138,97 @@
 		"nimi": "Liukas liero",
 		"kuvaus": "Sinulla pitää olla kalaverkko. Heitä noppaa kahdesti ja laske tulokset yhteen. Sinun pitää saada 9 tai enemmän yhteensä. Jos et saa vaadittua tulosta, menetät kalaverkkosi.",
 		"monologi": "Tervetuloa, lipevä liukujalka! Olen Liukas liero, ja nyt sinun on aika näyttää taitosi kalaverkon kanssa. Heitä noppaa kahdesti ja laske tulokset yhteen. Sinun on saatava vähintään 9 yhteensä. Jos onni ei ole myötä, menetät kalaverkkosi – ja minä voin luvata, että kammio on sinua varten varsin liukas paikka!"
-	}
+	},
+	{
+		"nimi": "Katastrofi-Kokki",
+		"kuvaus": "Katastrofi-Kokki on valtavan nälkäinen ja haluaa maistaa kaikkea. Sinulla pitää olla herkkupussi. Heitä kuudella heitolla 3 paritonta numeroa, jotta vältät Katastrofi-Kokin ruokahalun.",
+		"monologi": "Tervetuloa, nälkäinen seikkailija! Olen Katastrofi-Kokki, ja minulla on valtava ruokahalu. Onneksi olet mukanasi herkkupussi! Heitä noppaa kuusi kertaa ja yritä saada kolme paritonta silmälukua. Jos onnistut, vältät ruokahaluni ja saat jatkaa matkaasi. Muussa tapauksessa saatan syödä kaiken, mitä tiellesi jää – mukaan lukien sinut!"
+	  },
+	  {
+		"nimi": "Haamuratsastaja",
+		"kuvaus": "Haamuratsastaja on kadonnut metsään, eikä löydä tietä pois. Sinulla pitää olla peili. Heitä noppaa neljällä heitolla. Jos saat yhteensä 10 tai vähemmän, pelasta Haamuratsastaja näyttämällä hänelle peiliäsi.",
+		"monologi": "Tervetuloa, eksynyt sielu! Olen Haamuratsastaja, ja olen kadottanut tieni tässä metsässä. Voit auttaa minua löytämään takaisin näyttämällä minulle peiliäsi. Heitä noppaa neljä kertaa ja toivo, että saat yhteensä 10 tai vähemmän. Jos näin käy, pelastat minut ja saan jatkaa matkaani. Muuten joudun kummittelemaan täällä ikuisesti!"
+	  },
+	  {
+		"nimi": "Säihkyvä Sähköhiisi",
+		"kuvaus": "Säihkyvä Sähköhiisi on täynnä sähköä ja aiheuttaa kipinöitä ympärilleen. Sinulla pitää olla harava. Yritä heittää noppaa kolme kertaa ja saada yhteensä vähintään 18.",
+		"monologi": "Tervetuloa, sähköinen seikkailija! Olen Säihkyvä Sähköhiisi, ja minä olen täynnä sähköä! Tarvitsen hieman lisää kipinöitä, joten heitä noppaa kolme kertaa ja yritä saada yhteensä vähintään 18. Jos onnistut, saat päästä ihastelemaan sähköisiä loistojani. Jos et, saatan sytyttää ympärilläsi olevat varusteet kipinöilläni!"
+	  },
+	  {
+		"nimi": "Ihastuttava Illuusioitaiteilija",
+		"kuvaus": "Ihastuttava Illuusioitaiteilija luo hämmästyttäviä näkyjä ja saa sinut epäilemään todellisuutta. Sinulla pitää olla peili. Heitä noppaa kahdesti. Jos heittojen summa on pariton luku, saat peilistä viisautta ja voit jatkaa matkaasi. Jos summa on parillinen, joudut hänen illuusioihinsa.",
+		"monologi": "Tervetuloa, hämmästyttävä matkamies! Olen Ihastuttava Illuusioitaiteilija, ja teen näkymättömästä näkyvää. Sinulla on etuoikeus nähdä hämmästyttäviä illuusioitani! Heitä noppaa kahdesti ja toivo, että heittojen summa on pariton luku. Jos näin käy, saat peilistäni viisautta ja voit jatkaa matkaasi. Jos summa on parillinen, sinut kiedotaan illuusioihini, etkä ehkä enää erota totuutta valheesta!"
+	  },
+	  {
+		"nimi": "Möhkömaha",
+		"kuvaus": "Möhkömaha on pöhöttynyt ja tarvitsee apuasi. Sinulla pitää olla rautalanka. Yritä heittää noppaa viisi kertaa. Jos saat heitoilla yhteensä 20 tai enemmän, autat Möhkömahan puhaltamaan pois ylimääräiset ilmat.",
+		"monologi": "Tervetuloa, avulias seikkailija! Olen Möhkömaha, ja minä olen hieman pöhöttynyt. Tarvitsen apuasi päästäkseni eroon ylimääräisistä ilmista! Heitä noppaa viisi kertaa ja toivo, että saat yhteensä 20 tai enemmän. Jos onnistut, autat minua puhaltamaan pois ilmavaivani, ja voin taas jatkaa matkaani. Jos et, saattaa olla, että pöhöttyneet vatsani aiheuttavat melkoisia ongelmia!"
+	  },
+	  {
+		"nimi": "Kadotettu Koordinaattori",
+		"kuvaus": "Kadotettu Koordinaattori on eksyksissä eikä tiedä, missä on. Sinulla pitää olla kartta. Heitä noppaa kolmesti ja yritä saada heitoilla yhteensä vähintään 15. Näytä karttaa ja auta Kadotettu Koordinaattori takaisin oikealle tielle.",
+		"monologi": "Tervetuloa, eksynyt matkamies! Olen Kadotettu Koordinaattori, ja olen aivan hukassa! Tarvitsen apuasi päästäkseni takaisin oikealle tielle. Heitä noppaa kolmesti ja yritä saada yhteensä vähintään 15. Jos onnistut, näytä karttaa ja ohjaa minut takaisin koordinaatteihini. Jos et, olemme molemmat eksyksissä loputtomiin!"
+	  },
+	  {
+		"nimi": "Kummitteleva Keksikuski",
+		"kuvaus": "Kummitteleva Keksikuski on surullinen karkkien puutteesta. Sinulla pitää olla herkkupussi. Heitä noppaa viidesti ja yritä saada yhteensä vähintään 16. Jos onnistut, jaat keksikuskille herkkupussisi, ja hänestä tulee ystäväsi.",
+		"monologi": "Tervetuloa, herkkä seikkailija! Olen Kummitteleva Keksikuski, ja minulla on ikävä karkkeja. Tarvitsen piristystä elämääni! Heitä noppaa viisi kertaa ja toivo, että saat yhteensä vähintään 16. Jos onnistut, jaat kanssani herkkupussisi, ja minusta tulee sinun ystäväsi. Jos et, joudun kummittelemaan täällä yksinäni, ilman makeisia!"
+	  },
+	  {
+		"nimi": "Nokkela Noppamaakari",
+		"kuvaus": "Nokkela Noppamaakari on taitava noppien valmistaja, mutta hän on menettänyt inspiraationsa. Sinulla pitää olla sakset. Heitä noppaa neljästi ja yritä saada heitoilla yhteensä vähintään 14. Jos onnistut, anna sakset Nokkelalle Noppamaakarille, ja hän korjaa vahingoittuneet noppanne.",
+		"monologi": "Tervetuloa, taitava seikkailija! Olen Nokkela Noppamaakari, ja olen luonut monia upeita noppia elämäni aikana. Nyt olen kuitenkin menettänyt inspiraationi. Heitä noppaa neljästi ja yritä saada yhteensä vähintään 14. Jos onnistut, anna sakset minulle, ja korjaan vahingoittuneet noppanne. Jos et, olen vailla inspiraatiota, eikä noppanne ehkä kestä seuraavaa haastetta!"
+	  },
+	  {
+		"nimi": "Loikkiva Lumisusi",
+		"kuvaus": "Loikkiva Lumisusi rakastaa hyppiä lumikinoksissa, mutta tarvitsee siihen lumilapion. Heitä noppaa viisi kertaa ja yritä saada yhteensä vähintään 18. Jos onnistut, antaa Lumisusi sinulle lisävoimaa seuraaviin tehtäviin.",
+		"monologi": "Tervetuloa, lumisen seikkailuun! Olen Loikkiva Lumisusi, ja rakastan hyppiä lumikinoksissa. Tarvitsen kuitenkin lumilapion auttamaan minua. Heitä noppaa viisi kertaa ja toivo, että saat yhteensä vähintään 18. Jos onnistut, annan sinulle lisävoimaa seuraaviin tehtäviin. Jos et, saatan hypätä lumikinoksiin kanssasi ja unohtaa tieni takaisin!"
+	  },
+	  {
+		"nimi": "Silmäkääpiö",
+		"kuvaus": "Silmäkääpiö vahtii tarkasti liikkeitäsi ja yrittää hämätä sinua. Sinulla pitää olla kello. Heitä noppaa viisi kertaa. Jos saat heitoilla yhteensä tasan 15, voitat Silmäkääpiön ja hänestä tulee liittolaisesi.",
+		"monologi": "Tervetuloa, teräväkatseinen seikkailija! Olen Silmäkääpiö, ja vahdin tarkasti liikkeitäsi. Tarvitsen kuitenkin lisää aikaa tarkasteluun! Heitä noppaa viisi kertaa ja toivo, että saat heitoilla yhteensä tasan 15. Jos näin käy, voitat minut ja minusta tulee liittolaisesi, joka auttaa sinua huomaamaan kaiken tärkeän!"
+	  },
+	  {
+		"nimi": "Vauhtipeto",
+		"kuvaus": "Vauhtipeto on nopea ja liikkuu äärimmäisen nopeasti. Sinulla pitää olla verkko. Heitä noppaa neljästi. Jos saat heitoilla yhteensä 20 tai enemmän, onnistut vangitsemaan Vauhtipedon verkkoon.",
+		"monologi": "Tervetuloa, vikkelä seikkailija! Olen Vauhtipeto, ja liikun äärimmäisen nopeasti! Tarvitsen haastetta nopeudelleni. Heitä noppaa neljästi ja toivo, että saat yhteensä 20 tai enemmän. Jos onnistut, vangitset minut verkkoon ja saan hetken levähtää. Jos et, juoksen tieheni ja jätän sinut hämmennyksen valtaan!"
+	  },
+	  {
+		"nimi": "Viiksivillitsijä",
+		"kuvaus": "Viiksivillitsijä on kiero ilkimys, joka yrittää huijata sinua. Sinulla pitää olla totuusseerumi. Heitä noppaa kolmesti. Jos saat heitoilla yhteensä 12 tai vähemmän, käytät totuusseerumia ja paljastat Viiksivillitsijän juonet.",
+		"monologi": "Tervetuloa, teräväpäinen seikkailija! Olen Viiksivillitsijä, ja minulla on monia juonia mielessäni. Tarvitsen kuitenkin hieman totuutta elämääni! Heitä noppaa kolmesti ja toivo, että saat heitoilla yhteensä 12 tai vähemmän. Jos onnistut, käytät totuusseerumia ja paljastat juoneni. Jos et, saatan kietoa sinut viiksivillityksiini ja jättää sinut arvailemaan!"
+	  },
+	  {
+		"nimi": "Kaihoisa Käpälä",
+		"kuvaus": "Kaihoisa Käpälä on menettänyt tärkeän esineen, ja hän kaipaa apuasi sen löytämiseen. Sinulla pitää olla hopeakolikko. Heitä noppaa neljästi. Jos saat heitoilla yhteensä tasan 14, autat Kaihoisan Käpälän löytämään kadonneen esineensä.",
+		"monologi": "Tervetuloa, avulias seikkailija! Olen Kaihoisa Käpälä, ja olen menettänyt tärkeän esineen. Tarvitsen apuasi sen löytämiseen! Heitä noppaa neljästi ja toivo, että saat heitoilla yhteensä tasan 14. Jos onnistut, autat minua löytämään kadonneen esineeni, ja olen sinulle ikuisesti kiitollinen. Jos et, saanen jäädä tänne kaipailemaan menetettyä esinettäni!"
+	  },
+	  {
+		"nimi": "Salakavala Sähinä",
+		"kuvaus": "Salakavala Sähinä liikkuu hiljaa ja yllättää vihollisensa äänettömyydellään. Sinulla pitää olla tulitikku. Heitä noppaa kolmesti. Jos saat heitoilla yhteensä vähintään 16, onnistut sytyttämään tulitikulla valon, joka paljastaa Salakavalan Sähinän liikkeet.",
+		"monologi": "Tervetuloa, varovainen seikkailija! Olen Salakavala Sähinä, ja liikun äänettömästi kuin varjo! Tarvitsen kuitenkin hieman valoa ympärilleni. Heitä noppaa kolmesti ja yritä saada yhteensä vähintään 16. Jos onnistut, sytytät tulitikun, joka paljastaa liikkeeni. Jos et, saatan hiipiä luoksesi äänettömästi ja jättää sinut pimeyteen!"
+	  },
+	  {
+		"nimi": "Kumma Kulkuri",
+		"kuvaus": "Kumma Kulkuri on hassu hahmo, joka kaipaa seuraa matkallaan. Sinulla pitää olla naurunappula. Heitä noppaa viisi kertaa. Jos saat heitoilla yhteensä tasan 19, huvitat Kumman Kulkurin naurunappulallasi, ja hän seuraa sinua seuraavalle kierrokselle.",
+		"monologi": "Tervetuloa, huvittava seikkailija! Olen Kumma Kulkuri, ja matkallani kaipaisin seuraa ja naurua! Heitä noppaa viisi kertaa ja toivo, että saat heitoilla yhteensä tasan 19. Jos näin käy, huvitat minut naurunappulallasi, ja seuraan sinua seuraavalle kierrokselle. Jos et, joudun kulkemaan yksinäni, ilman iloista seuraasi!"
+	  },
+	  {
+		"nimi": "Siivekäs Sähinä",
+		"kuvaus": "Siivekäs Sähinä on salaperäinen olento, joka liikkuu ilmaa pitkin. Sinulla pitää olla höyhen. Heitä noppaa kolmesti. Jos saat heitoilla yhteensä vähintään 14, lahjoitat höyhenen Siivekäälle Sähinälle, ja hän kertoo sinulle arvokkaan vihjeen.",
+		"monologi": "Tervetuloa, korkealle kohoava seikkailija! Olen Siivekäs Sähinä, ja liikun ilmaa pitkin salaperäisesti. Tarvitsen kuitenkin hieman keveyttä matkalleni. Heitä noppaa kolmesti ja yritä saada yhteensä vähintään 14. Jos onnistut, lahjoitat minulle höyhenen, joka auttaa minua liikkumaan korkeuksissa. Kiitokseksi jaan kanssasi arvokkaan vihjeen seuraavasta tehtävästä. Jos et, saanen yhä harhailla yläilmoissa ilman suuntaa ja päämäärää!"
+	  },
+	  {
+		"nimi": "Myrsky-Murmeldaaja",
+		"kuvaus": "Myrsky-Murmeldaaja on voimakas olento, joka hallitsee säätä. Sinulla pitää olla käsiraudat. Heitä noppaa kolmesti. Jos saat heitoilla yhteensä 18 tai enemmän, onnistut sitomaan Myrsky-Murmeldaajan käsiraudoilla ja rauhoittamaan hänen myrskynsä.",
+		"monologi": "Tervetuloa, rohkea seikkailija! Olen Myrsky-Murmeldaaja, ja hallitsen säätä voimillani! Tarvitsen haastetta voimilleni. Heitä noppaa kolmesti ja toivo, että saat yhteensä 18 tai enemmän. Jos onnistut, sidot minut käsiraudoilla ja rauhoitat myrskyni. Jos et, saatan yltyä myrskytuulieni voimalla ja jättää sinut myrskyn silmään!"
+	  },
+	  {
+		"nimi": "Kaihoisa Kuutamo",
+		"kuvaus": "Kaihoisa Kuutamo kaipaa ystävää ja lohduttajaa. Sinulla pitää olla kristallipallo. Heitä noppaa neljästi. Jos saat heitoilla yhteensä tasan 16, lohdutat Kaihoisan Kuutamon kristallipallolla, ja hän tarjoaa sinulle viisaita neuvoja.",
+		"monologi": "Tervetuloa, lempeä seikkailija! Olen Kaihoisa Kuutamo, ja kaipaan ystävää ja lohdutusta matkallani. Tarvitsen jonkun, joka pysähtyy hetkeksi viereeni. Heitä noppaa neljästi ja toivo, että saat heitoilla yhteensä tasan 16. Jos näin käy, lohdutat minua kristallipallolla, ja annan sinulle viisaita neuvoja seuraavista haasteista. Jos et, saanen jäädä kaipailemaan ystävääni ja matka jatkuu yksinäisyydessäni!"
+	  }
+	  
+	
 ]
