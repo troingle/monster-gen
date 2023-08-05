@@ -1,5 +1,5 @@
 [
-	{
+		{
 		"nimi": "Siilisukka",
 		"kuvaus": "Pääset Siilikuopan yli ilmaiseksi yhden kerran!"
 		
@@ -13,6 +13,20 @@
 		"nimi": "Potkiva kenkä",
 		"kuvaus": "Estä yksi varkaus."
 		
+	},
+	{
+		"nimi": "Kehottava kompastuminen",
+		"kuvaus": "Vaihda yksi varustekorttisi jonkun muun pelaajan varustekorttiin."
+		
+	},
+	{
+		"nimi": "Venyvä käsi",
+		"kuvaus": "Jos nappulasi päätyy vastustajan nappulan viereen, voit varastaa häneltä."
+		
+	},
+	{
+		"nimi": "Sulttaanin saunakenkä",
+		"kuvaus": "Voit varastaa vastustajaltasi mitä haluat, vaikka hänellä olisi Potkiva kenkä tai Hypnoosiomena."
 	}
 
 ]
